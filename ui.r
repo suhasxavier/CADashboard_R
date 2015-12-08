@@ -10,3 +10,4 @@ dashboardPage(
                 ,tags$head(includeScript("/home/sxavier2/all_files/google-analytics.js"))
   )
 )
+
